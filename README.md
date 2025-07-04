@@ -18,3 +18,34 @@
 🧠 Projects:   WAN Chat Tool (Terminal-Based Communication App)  
 🧑‍💻 Skills:    C • C++ • HTML • CSS  
 🌐 Languages:  English • Malayalam  
+
+## ⚙️ Tools & Tech I Use
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vscode,linux,github,git" /> 
+</div>
+
+---
+
+## 🎞️ Pixel Story — Code is My Canvas
+<div align="center"> 
+  <img src="https://media1.giphy.com/media/zINs6k7lwfawSbLOIc/giphy.gif" width="80%" /> 
+  <br> 
+  <code>Turning command lines into connection — WAN Chat loading...</code> 
+</div>
+
+---
+
+## 📈 GitHub Stats
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulghaniy7mk&show_icons=true&theme=radical" height="165" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdulghaniy7mk&theme=radical&hide_border=true" height="165" /> 
+</div>
+
+---
+
+<div align="center">
+
+> “Think like a hacker. Build like an engineer.”  
+> — Abdul Ghaniy
+
+</div>
