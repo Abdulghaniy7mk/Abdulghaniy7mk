@@ -20,10 +20,16 @@
 | 🧑‍💻 Skills   | C, C++, HTML, CSS                                    |
 | 🌐 Languages | English, Malayalam                                  |
 
-#⚙️ Tools & Tech I Use
+## ⚙️ Tools & Tech I Use
+
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vscode,linux,github,git" /> 
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vscode,linux,github,git" />
+  <br><br>
+  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
+
 
 ---
 
