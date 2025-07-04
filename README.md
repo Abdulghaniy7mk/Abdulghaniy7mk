@@ -29,7 +29,7 @@
 
 🎞️ Pixel Story — Code is My Canvas
 <div align="center"> 
-  <img src="https://media1.giphy.com/media/zINs6k7lwfawSbLOIc/giphy.gif" width="80%" /> 
+  <img src="[https://media1.giphy.com/media/zINs6k7lwfawSbLOIc/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3c5MzNjNGNzdWVicWVyb2c1YjdkYmgxNzB6c2cycHJvMzhoanN1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.gif)" width="80%" /> 
   <br> 
   <code>Turning command lines into connection — WAN Chat loading...</code> 
 </div>
