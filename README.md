@@ -53,7 +53,7 @@
 
 <div align="center">
 
-> “Think like a hacker. Build like an engineer.”  
+> “vibe code”  
 > — Abdul Ghaniy
 
 </div>
