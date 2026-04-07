@@ -14,7 +14,7 @@
 | Key         | Details                                             |
 |-------------|-----------------------------------------------------|
 | 👤 Name      | Abdul Ghaniy                                        |
-| 📍 Location  | Palakkad, Kerala, India                             |
+| 📍 Location  | Kerala                                              |
 | 🎓 Status    | Studying                                            |
 | 🧠 Projects  | WAN Chat Tool *(Terminal-Based Communication App)*  |
 | 🧑‍💻 Skills   | C, C++, HTML, CSS                                    |
