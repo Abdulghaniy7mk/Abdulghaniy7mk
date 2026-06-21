@@ -118,6 +118,7 @@ workflow/
 ├── Claude
 ├── Gemini
 ├── Cursor
+├── Antigravity
 └── Lovable
 ```
 
