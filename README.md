@@ -1,59 +1,145 @@
-<!-- Abdulghaniy7mk GitHub README -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF7EC&center=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Abdul+Ghaniy;C%2C+C%2B%2B%2C+HTML%2C+CSS+Developer;Creating+Tools+Like+WAN+Chat;Learning+Never+Stops+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF7EC&center=true&width=600&lines=ssh+abdul%40github;Building+interesting+systems%2C;learning+in+public." alt="Typing SVG" />
 
-![banner](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyejZ3cTNwOGtpYjUxd3p1ZTFwYzEycmljNHIxbnF0bGxvd2lzZ2NtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zINs6k7lwfawSbLOIc/giphy.gif)
+![banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNiNGNjdjJrNGU4ejZxaGlsaXp2Z2NwODgxcXJ5MmI1dTA2MG11MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U6kTpJ6GIEZ0jdBhNb/giphy.gif)
 
 </div>
 
----
+```console
+┌─[abdul@arch]─[~]
+└─$ whoami
+```
+```text
+Abdul Ghaniy
 
-## 👨‍💻 About Me
+Software Builder
+Self-Hoster
+Terminal Enjoyer
+Arch Linux User (btw)
 
-| Key         | Details                                             |
-|-------------|-----------------------------------------------------|
-| 👤 Name      | Abdul Ghaniy                                        |
-| 📍 Location  | Kerala                                              |
-| 🎓 Status    | Studying                                            |
-| 🧠 Projects  | WAN Chat Tool *(Terminal-Based Communication App)*  |
-| 🧑‍💻 Skills   | C, C++, HTML, CSS                                    |
-| 🌐 Languages | English, Malayalam                                  |
+Based in Kerala, India
+```
 
-## ⚙️ Tools & Tech I Use
+```console
+┌─[abdul@arch]─[~]
+└─$ cat mission.txt
+```
+```text
+I enjoy turning small ideas into working software —
+from terminal tools and self-hosted services
+to experimental interfaces and embedded projects.
 
-<div align="center"> 
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vscode,linux,github,git" />
-  <br><br>
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+Most of these start as weekend experiments.
+Some of them stick around and grow.
+```
+
+```console
+┌─[abdul@arch]─[~]
+└─$ ls portfolio/
+```
+
+### MediaServ
+Self-hosted media platform built with Python. Multi-user support, streaming, authentication, and ongoing experimentation with media delivery.
+`Python` `FastAPI` `Self-Hosted`
+
+🔗 Repository: [mediaserver2](https://github.com/Abdulghaniy7mk/mediaserver2)
+
+### AURA
+Stores ideas not as flat text but as a connected web of thoughts — nodes linked by named relationships, navigated visually on a physics-driven canvas. Single dependency-free HTML file.
+`HTML` `Zero Dependencies` `Browser-Based`
+
+🔗 Live demo: [abdulghaniy7mk.github.io/AURA](https://abdulghaniy7mk.github.io/AURA/) · Repository: [AURA](https://github.com/Abdulghaniy7mk/AURA)
+
+### WAN Chat Tool
+A terminal-based communication tool focused on real connectivity over the open internet, not just LAN demos.
+`Python` `Networking` `Terminal`
+
+🔗 Repository: [wan_chat_tool_2.0](https://github.com/Abdulghaniy7mk/wan_chat_tool_2.0-)
+
+### DropBeam
+Peer-to-peer file transfer directly between browsers. No accounts. No cloud storage. No uploads — files move browser-to-browser over WebRTC, end-to-end encrypted.
+`WebRTC` `WebSockets` `P2P` `JavaScript`
+
+🔗 Live demo: [dropbeam-server.netlify.app](https://dropbeam-server.netlify.app) · Repository: [dropbeam-server](https://github.com/Abdulghaniy7mk/dropbeam-server)
+
+### File Transfer Tool
+A lightweight tool for moving files directly between machines, built from scratch.
+`Python`
+
+🔗 Repository: [File_Transfer_Tool](https://github.com/Abdulghaniy7mk/File_Transfer_Tool)
+
+### ascii-forge
+A collection of terminal toys and tools, no external dependencies.
+`Python` `Terminal`
+
+🔗 Repository: [ascii-forge-](https://github.com/Abdulghaniy7mk/ascii-forge-)
+
+```console
+┌─[abdul@arch]─[~]
+└─$ fastfetch
+```
+```text
+OS          : Arch Linux
+Kernel      : Linux Zen
+WM          : Hyprland
+Shell       : Zsh
+Terminal    : Kitty
+Status      : Building things that probably
+              should have stayed weekend projects
+```
+
+```console
+┌─[abdul@arch]─[~]
+└─$ cat now.txt
+```
+```text
+Working on:
+→ WAN Chat Tool 2.0
+→ MediaServ v3
+→ AURA
+→ Homelab Experiments
+→ ESP32 Projects
+```
+
+```console
+┌─[abdul@arch]─[~]
+└─$ tree workflow/
+```
+```text
+workflow/
+├── Arch Linux
+├── Hyprland
+├── GitHub
+├── FastAPI
+├── Self-Hosting
+├── Networking
+├── GPT
+├── Claude
+├── Gemini
+├── Cursor
+├── Antigravity
+└── Lovable
+```
+
+```console
+┌─[abdul@arch]─[~]
+└─$ git log --stats
+```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulghaniy7mk&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdulghaniy7mk&theme=radical&hide_border=true" height="165" />
 </div>
 
-
----
-
-## 🎞️ Pixel Story — Code is My Canvas
-<div align="center"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3c5MzNjNGNzdWVicWVyb2c1YjdkYmgxNzB6c2cycHJvMzhoanN1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.gif" width="80%" /> 
-  <br> 
-  <code>Turning command lines into connection — WAN Chat loading...</code> 
-</div>
-
-
----
-
-📈 GitHub Stats
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulghaniy7mk&show_icons=true&theme=radical" height="165" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdulghaniy7mk&theme=radical&hide_border=true" height="165" /> 
-</div>
-
----
+```console
+┌─[abdul@arch]─[~]
+└─$ exit
+logout
+```
 
 <div align="center">
 
-> “vibe code”  
-> — Abdul Ghaniy
+**[Abdulghaniy7mk](https://github.com/Abdulghaniy7mk)**
 
 </div>
