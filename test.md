@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF7EC&center=true&width=600&lines=ssh+abdul%40github;Building+interesting+systems%2C;learning+in+public." alt="Typing SVG" />
 
-![banner](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyejZ3cTNwOGtpYjUxd3p1ZTFwYzEycmljNHIxbnF0bGxvd2lzZ2NtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zINs6k7lwfawSbLOIc/giphy.gif)
+![banner]([https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyejZ3cTNwOGtpYjUxd3p1ZTFwYzEycmljNHIxbnF0bGxvd2lzZ2NtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zINs6k7lwfawSbLOIc/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNrcGxmbHowcXZqaTR1MHkyY3hlcmNlZm02aWxjeGR4dThiYjQ4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U6kTpJ6GIEZ0jdBhNb/giphy.gif))
 
 </div>
 
